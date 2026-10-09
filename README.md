@@ -1,14 +1,21 @@
 # Pillar Fabric
 
-Pillar Fabric is a software company. It builds infrastructure for creating, launching and governing AI workers for one industry at a time: worker templates, policy checks, human approval and a kill switch. It is not a textile, tent or physical fabric company.
+Software for focused AI-worker workflows, with human approval at the steps that matter.
 
-## Products
-- Tenda: sales workspace for African social sellers (catalog, AI chat, orders). https://tendaapp.onrender.com/
-- Security Questionnaire Desk: evidence-grounded answers to security questionnaires and RFPs, human reviewed. https://pillar-agent-fabric.onrender.com/
-- AI Visibility Audit and AI Visibility Monitoring: how a brand appears in AI answers. https://pillar-agent-fabric.onrender.com/ai-visibility , https://pillar-ai-monitoring.onrender.com/
-- Pillar Real Estate: property-lead intake with reviewed briefs. https://strata-real-estate.onrender.com/
-- Pillar Campaign Manager: https://pillar-fabric.onrender.com/campaign-manager
-- Pillar Clips: https://pillar-clips.onrender.com/
+## Product catalogue
 
-Company facts: https://pillar-fabric.onrender.com/static/brand-facts.html
-Contact: pillar@mail.instinct.com
+A live page is not a claim that a product is finished or available for sale.
+
+| Product | Link | Status |
+| --- | --- | --- |
+| AI Visibility Audit | https://pillar-agent-fabric.onrender.com/ai-visibility | Live page. Technical-readiness checks tested; expanded audit/history features tested locally, not yet deployed. |
+| AI Monitoring | https://pillar-ai-monitoring.onrender.com/ | Live page. Production recurring monitoring and connector workflow not yet proven. |
+| Security Desk | https://pillar-agent-fabric.onrender.com/ | Live page. Customer-ready output proof pending. |
+| Tenda | https://tendaapp.onrender.com/ | Listed product in development. Website available; WhatsApp pending business account. Buyer payments test-mode until seller-owned Paystack is proven. |
+| Pillar Real Estate | https://strata-real-estate.onrender.com/ | Live page. Customer-ready output proof pending. |
+| Campaign Manager | https://pillar-fabric.onrender.com/campaign-manager | Live page. Production workflow proof pending. |
+| Clips | https://pillar-clips.onrender.com/ | Live page. Customer-ready output proof pending. |
+
+Only products with verified end-to-end customer output will be offered for sale. No guaranteed AI rankings, citations or invented usage metrics.
+
+Company: https://pillar-fabric.onrender.com/
